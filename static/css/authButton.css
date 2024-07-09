@@ -1,0 +1,16 @@
+.auth-btn {
+    display: none;
+}
+.auth-btn__register {}
+.auth-btn__come {}
+
+
+
+
+@media (max-width: 567px) {
+    .auth-btn {
+        display: flex;
+        align-items: center;
+        padding: 8px 0;
+    }
+}
