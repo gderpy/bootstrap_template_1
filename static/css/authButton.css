@@ -1,16 +1,18 @@
 .auth-btn {
     display: none;
 }
+
 .auth-btn__register {}
 .auth-btn__come {}
 
 
-
-
-@media (max-width: 567px) {
+@media (max-width: 820px) {
     .auth-btn {
         display: flex;
         align-items: center;
-        padding: 8px 0;
+        justify-content: center;
+        padding: 8px;
+        gap: 5px;
+        margin-top: 5px;
     }
 }
