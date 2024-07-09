@@ -1,4 +1,6 @@
+@import "../vendor/bootstrap.min.css";
 @import "authButton.css";
+@import "fonts.css";
 .my-logo {
     font-family: "Roboto", sans-serif;
     font-size: 28px;
